@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A35CC2DF-D1F9-41FE-BBCD-B3053C8E3B3C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="histamine/ViewController.cs">
+    <Files>
+      <File FileName="histamine/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="histamine/Main.cs" Line="9" Column="30" />
+      <File FileName="histamine/ViewController.cs" Line="21" Column="9" />
+      <File FileName="histamine/ViewController.designer.cs" Line="46" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.histamine PreferredExecutionTarget="Test1" />
+</Properties>

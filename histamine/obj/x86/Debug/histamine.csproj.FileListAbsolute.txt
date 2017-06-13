@@ -1,0 +1,13 @@
+/Users/Manson/Desktop/Histamine/histamine/bin/Debug/histamine.exe
+/Users/Manson/Desktop/Histamine/histamine/bin/Debug/histamine.pdb
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/actool/partial-info.plist
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/actool/asset-manifest.plist
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/actool/bundle/AppIcon.icns
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/ibtool-manifests/Main.storyboardc
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/ibtool/Main.storyboardc/MainMenu.nib
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/ibtool/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/ibtool/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/histamine.csproj.CoreCompileInputs.cache
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/histamine.exe
+/Users/Manson/Desktop/Histamine/histamine/obj/x86/Debug/histamine.pdb
